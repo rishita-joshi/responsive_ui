@@ -12,7 +12,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Responsive UI"),
+        title: Text("Responsive UI 1 "),
       ),
       body: SingleChildScrollView(
         child: SafeArea(child: LayoutBuilder(builder: (context, constrains) {
